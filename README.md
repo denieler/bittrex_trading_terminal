@@ -1,2 +1,3 @@
-# bittrex_trading_terminal
-Fast trading terminal
+## Bittrex Trading Terminal
+
+Just fast trading terminal
